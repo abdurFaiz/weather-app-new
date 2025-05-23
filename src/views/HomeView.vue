@@ -63,7 +63,7 @@ const previewCity = (seacrhResult) => {
   });
 };
 const mapboxAPIKey =
-  "pk.eyJ1IjoiZmFpejk5MCIsImEiOiJjbHlmejNyenUwNHJmMmpwdzZlbWtqZG5kIn0.HtiRS0lZ4kwopTCpWC7aiw";
+  "pk.eyJ1IjoiZmFpejB4MCIsImEiOiJjbWFwNHZpNngwZTA0MmpyM3A0YWoxZmV2In0.57RA3Oi-jEy12UD5cFp9og";
 const searchQuery = ref("");
 const queryTimeout = ref(null);
 const mapboxSearchResults = ref(null);
